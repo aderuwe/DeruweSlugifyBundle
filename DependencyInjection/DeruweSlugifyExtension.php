@@ -8,7 +8,7 @@ use Symfony\Component\HttpKernel\DependencyInjection\Extension;
 use Symfony\Component\DependencyInjection\Loader;
 
 /**
- * Loads and manage bundle configuration
+ * Load and manage bundle configuration
  */
 class DeruweSlugifyExtension extends Extension
 {
